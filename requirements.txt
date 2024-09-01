@@ -1,0 +1,11 @@
+langchain 
+langchain_openai
+langsmith
+pandas 
+langchain_experimental 
+matplotlib
+langchainhub
+tiktoken==0.5.2
+wikipedia
+networkx
+langchain-google-vertexai
